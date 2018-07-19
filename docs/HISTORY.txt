@@ -4,6 +4,9 @@ Changelog
 1.0 (unreleased)
 ----------------
 
+* Fixed UserWarning: Normalizing '1.0-dev' to '1.0.dev0' normalized_version
+  from MANIFEST.in file [macagua]
+
 * Fixed the Portal URL image link from the footer section [macagua]
 
 * Added support for z3c.autoinclude plugin [macagua]
